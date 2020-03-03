@@ -163,7 +163,7 @@ radius = noise.certify(prob_lb, adv=1)
 1. `ckpts/` is used to store experiment checkpoints and results.
 2. `data/` is used to store image datasets.
 4. `tables/` contains caches of pre-calculated tables of certified radii.
-5. `src/` contains the main souce code.
+5. `src/` contains the main source code.
 6. `scripts/` contains the analysis and plotting code.
 
 Within the `src/` directory, the most salient files are:
